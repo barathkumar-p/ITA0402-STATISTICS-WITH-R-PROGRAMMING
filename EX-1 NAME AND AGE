@@ -1,0 +1,5 @@
+name<-readline("Enter a name")
+age<-as.numeric(readline("Enter a age")
+print("name:",name)
+print("age",age)
+print("r version",R.version.string)
